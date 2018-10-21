@@ -5,7 +5,7 @@ title: About E-Sports
 
 <div class="post">
 	<h1 class="pageTitle">About E-Sports</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
+	<img src="{{ 'https://i.ytimg.com/vi/cncmeerQctQ/maxresdefault.jpg' | prepend: site.baseurl }}" alt="">
 	<p class="intro">E-sports is a subject that is categorized as a sport but sort of different, meaning that it is mainly called e-sports but has the meaning of electronic-sports.<a href="https://www.theguardian.com/sport/esports">e-sports (the guardian) </a> Theme. It can be used as is or customized to your hearts desire.</p>
 	<p>This website is created for the game lovers and those who enjoy playing video games in no matter what system: PC, console, mobile and etc. This website is resposible for showing you the world of E-Sports and how it is played and how it is formatted.</p>
 	<h2>Basic Knowledge</h2>
