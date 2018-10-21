@@ -9,3 +9,8 @@ eSports players, not unlike traditional athletes, can rake in big money: Tournam
 After the shooting, EA Sports canceled the three remaining Madden Classic qualifier events to review safety protocols for competitors and spectators, according to a release issued by the gaming company.
 Players also earn money from sponsorships, endorsements and league salaries. To that end, Newzoo reports brands will invest $694 million in eSports ventures this year alone.
 According to the numbers and the seemingly unstoppable cultural momentum, eSports will continue to grow as an industry -- and a pastime -- for the foreseeable future. By the end of 2018, 1.6 billion people will have some knowledge of eSports -- that's more than one fifth of the entire world's population. So if you haven't heard much about eSports yet, give it time. Its spread, both globally and culturally, is inevitable. </p>
+
+<h3> Can You Get Rich Playing Video Games? </h3>
+<p> For many years, the answer to this question was a resounding no. However, with Esports now taking off, the answer is now firmly yes. The total prize money given out at all the Esports events in 2015 was a whopping $61 million: a 70% year-on-year increase. For the first time, the answer has to be: yes, you can get rich by playing video games.
+
+This may not be the most stable career path to take, but people will begin to consider it as their potential career. Recently, a Brazilian footballer quit the game to become a professional FIFA player and it is expected that more people will do this in the future as the Esports job market increases. On a side note, a lucky esports bet can also get you rich if you like this. </p>
