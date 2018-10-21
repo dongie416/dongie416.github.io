@@ -1,0 +1,3 @@
+<h1> Home page for E-sports </h1>
+<h3> What is E-sports? </h3>
+ <p> eSports describes the world of competitive, organized video gaming. Competitors from different leagues or teams face off in the same games that are popular with at-home gamers: Fortnight, League of Legends, Counter-Strike, Call of Duty, Overwatch and Madden NFL, to name a few. These gamers are watched and followed by millions of fans all over the world, who attend live events or tune in on TV or online. Streaming services like Twitch allow viewers to watch as their favorite gamers play in real time, and this is typically where popular gamers build up their fandoms. </p>
