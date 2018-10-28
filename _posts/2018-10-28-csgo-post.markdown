@@ -30,7 +30,7 @@ Kills with different weapons are worth different point amounts, and throughout t
 Players gain new weapons immediately after registering a kill as they work their way through each weapon in the game. Get a kill with the final weapon, the golden knife, and win the match! </ol>
 
 <h4> Demolition <h4>
-  <ol> In Demolition players take turns attacking and defending a single bombsite in a series of maps designed for fast-paced gameplay.</ol>
+  <ol> In Demolition players take turns attacking and defending a single bombsite in a series of maps designed for fast-paced gameplay.
 
 Players are automatically granted a starting weapon and advance through a sequence of firearms when they register a kill. The more kills you earn the further you’ll advance towards stronger weapons which give your team an advantage, like powerful sniper rifles! </ol>
 
