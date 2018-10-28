@@ -1,4 +1,4 @@
-title: Long Haul
+title: 이동재의 귀욤귀욤 블로그
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: https://github.com/dongie416/dongie416.github.io.git
@@ -17,8 +17,8 @@ navigation:
  - title: About
    url: /about
 
-social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+#social:
+#   github: brianmaierjr
+#   twitter: brianmaierjr
+#   facebook: brianmaierjr
+#   email: brimaidesigns@gmail.com
