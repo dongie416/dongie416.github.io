@@ -21,7 +21,8 @@ Since partnering with adidas, the Yeezy sneakers’ design has become much more 
 
 In an unprecedented move, “The Ten” included sneakers from Nike, as well as Nike-owned brands Converse and Jordan. Held from late October to early November 2017, the first release was split into two packs of five, and each silhouette ties back to Nike’s two big claims to fame – running and basketball. In the “REVEALING” pack, we find the Air Jordan I, Nike Air Max 90, Nike Air Presto, Nike Air VaporMax and Nike Blazer Mid. The supplementary “GHOSTING” pack included a Nike Air Max 97, React Hyperdunk, Air Force 1, Zoom Vaporfly, and Chuck Taylor All-Star.  
 
-![Offwhite](https://sneakernews.com/wp-content/uploads/2017/08/virgil-abloh-off-white-nike-release-dates.jpg)  
+
+<img src="https://sneakernews.com/wp-content/uploads/2017/08/virgil-abloh-off-white-nike-release-dates.jpg">  
 
 Abloh himself spoke about “The Ten” by saying, “It’s larger than design culture. These 10 shoes have broken barriers in performance and style. To me, they are on the same level as a sculpture of David or the Mona. You can debate it all you want, but they mean something. And that’s what’s important.”
 
