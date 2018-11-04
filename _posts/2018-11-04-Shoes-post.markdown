@@ -5,7 +5,7 @@
 
 Since joining adidas, Kanye has served as chief designer for the sneaker. This collaboration, for example, is different than most athlete/celebrity and shoe company partnerships, because West has almost complete creative control in the design process.
 
-For adidas, West designs clothing and sneakers, which are released under the umbrella of the Yeezy Supply label. West has complete creative control. West created the unique Yeezy silhouettes, chose the bold colorways, and signed off on other unique materials.
+For adidas, West designs clothing and sneakers, which are released under the umbrella of the Yeezy Supply label. West has complete creative control. West created the unique Yeezy silhouettes, chose the bold colorways, and signed off on other unique materials.  
 
 ![yeet](https://www.rebelfrombirth.com/wp-content/uploads/2016/07/kanye-west-adidas-yeezy-expansion-001.jpg)
 
