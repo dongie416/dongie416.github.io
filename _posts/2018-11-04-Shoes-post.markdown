@@ -28,7 +28,7 @@ Abloh himself spoke about “The Ten” by saying, “It’s larger than design 
 
 The collaboration was teased on Instagram months ahead of its release, leaving sneakerheads hotly anticipating the release date of the deconstructed kicks, after they were heavily co-signed on social media by some of the biggest musicians and celebrities in the industry, including A$AP Rocky, Drake, even Kim Jones and Naomi Campbell. </ul>
 
-<h3> No. 3 Human Race </h3>
+<h3> No. 3 Jordans </h3>
 <h4> Types of Jordans </h4>
 <ul>The first Air Jordan's were designed by Peter Moore. Moore designed the shoes to match the uniform of the Chicago Bulls (red and black). However, Moore did not realize that at the time the National Basketball Association required all players to wear white sneakers. Jordan wore the shoes despite the requirement and the subsequent fines he was forced to pay only helped to market the shoes.
 
