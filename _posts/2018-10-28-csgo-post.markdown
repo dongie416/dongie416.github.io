@@ -29,11 +29,11 @@ Kills with different weapons are worth different point amounts, and throughout t
 
 Players gain new weapons immediately after registering a kill as they work their way through each weapon in the game. Get a kill with the final weapon, the golden knife, and win the match! </ol>
 
-<h4> Demolition <h4>  
+<h4> Demolition </h4>  
 
-  <ol> In Demolition players take turns attacking and defending a single bombsite in a series of maps designed for fast-paced gameplay.
+   <ol> In Demolition players take turns attacking and defending a single bombsite in a series of maps designed for fast-paced gameplay.
 
-Players are automatically granted a starting weapon and advance through a sequence of firearms when they register a kill. The more kills you earn the further you’ll advance towards stronger weapons which give your team an advantage, like powerful sniper rifles! </ol>
+Players are automatically granted a starting weapon and advance through a sequence of firearms when they register a kill. The more kills you earn the further you’ll advance towards stronger weapons which give your team an advantage, like powerful sniper rifles! </o>
 
 <h4> Flying Scoutsman </h4>
   <ol> This Casual 8v8 game mode features reduced gravity, does not penalize players for shooting while moving, and only allows two weapons – SSG 08 sniper rifles and knives. Take to the skies and eliminate your enemies; the first team to 9 rounds wins! </ol>
