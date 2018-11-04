@@ -7,7 +7,7 @@ Since joining adidas, Kanye has served as chief designer for the sneaker. This c
 
 For adidas, West designs clothing and sneakers, which are released under the umbrella of the Yeezy Supply label. West has complete creative control. West created the unique Yeezy silhouettes, chose the bold colorways, and signed off on other unique materials.
 
-![yeet](https://i.ytimg.com/vi/wGuEwXudjis/maxresdefault.jpg)
+![yeet](https://www.rebelfrombirth.com/wp-content/uploads/2016/07/kanye-west-adidas-yeezy-expansion-001.jpg)
 
 People have taken notice too. The latest Yeezy sneakers — Yeezy BOOST 350 and 350 Boost v2 — have been praised for their unique design. Featuring unique knit-top patterns and bold, yet simple colorways, the Yeezys may be the most fashionable running shoe in the world. They’ve even inspired imitators. For example, Steve Madden’s Baldwin sneakers share a striking resemblance to the BOOST 350 line-up.
 
