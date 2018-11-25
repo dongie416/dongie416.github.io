@@ -1,4 +1,4 @@
 <h2> Orthocenters </h2>
 <li> What are Orthocenters?? </li>
-<ol> Vocabulary you should know for an Orthocenter </ol>
+<ol> What makes up an orthocenter? </ol>
 <p> An Altitude, in geometry, is a line segment that goes through a specific vertex of a triangle, and something unique about this line, is that it is perpendicular towards the facing side of the triangle.
