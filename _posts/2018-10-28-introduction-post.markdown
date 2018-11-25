@@ -1,1 +1,0 @@
-<p> My name is Dong Jae Rhee, I am a 9th grader right now in the KIS International school which is located in Pangyo. I have been living in Japan for a sum of 5 years, Mexico for 5 years and Korea for 6 years.</p>
