@@ -15,7 +15,7 @@ navigation:
  - title: Home
    url: /index.html
  - title: Introduction
-   url: /index.html
+   url: /about.md
 
 
 #social:
