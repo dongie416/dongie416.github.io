@@ -1,4 +1,7 @@
+<html>
+<body>
 <h2> How can we apply an Incenter in Real Life? </h2>
 <p> For this real life application, we have 3 different distances that exists in Korea nowadays. The first location is my house which is Parkview, located in Bundang-Gu, the second location is named Jamsil-SongPa-Gu, located in Seoul. Finally the last location is Yangjae-Dong and in the points I, G and H, exists a single person who are friends with each other. Points C, D and E are their houses, which does not matter with the issue that they're having however, it creates the triangle and the incenter of △CDE.
-![Image of my Real Life application](file:///Users/DongJae1/Desktop/screenshotreal.jpg)
-<img src='file:///Users/DongJae1/Desktop/screenshotreal.jpg'>
+<img src="porjectfolder/file:///Users/DongJae1/Desktop/screenshotreal.jpg" alt="Real Life Photo" />
+</body>
+</html>
