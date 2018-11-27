@@ -1,0 +1,2 @@
+<h2> What is the main purpose for the readers to visit this website? </h2>
+<p> This webpage was mainly created containing the purpose to help those who need extra help on their knowledge towards the triangle centers, especially circumcenter and Incenter. This website also provides information how to discover the triangle centers (also especially incenter and circumcenter) and provides a description of the processes of finding the triangle centers. Enjoy! </p>

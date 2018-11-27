@@ -14,8 +14,7 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: Introduction
-   url: /about.md
+ 
 
 
 #social:
