@@ -1,5 +1,5 @@
 
-<h3> What makes up an orthocenter, and what are they? </h3>
-<p> An Altitude, in geometry, is a line segment that goes through a specific vertex of a triangle, and something unique about this line, is that it is perpendicular towards the facing side of the triangle.</p>
+<h3> What makes up an Circumcenter, and what are they? </h3>
+<p> A perpendicular, in geometry, is a line that both bisects the line segment or the triangle side and also creates a perpendicular line (90 degrees line), concluding both a bisector, and a perpendicular line, a perpendicular bisector. The perpendicular bisectors meet at a certain point within the triangle creating the Circumcenter. Yes, this center is apt to go out of the triangle, only in case of an obtuse triangle.</p>
 
-<p> An orthocenter is the point where all altitudes meet or intersect with each other within a triangle. Another word for the point of intersection is called the point of concurrency. The three altitudes that are in the triangle are always concurrent, meaning that they always meet at a certain point, with no importance of whether if its inside or outside. </p>
+<p> The circumcenter includes 3 perpendicular bisectors with in the triangle, creating a point of concurrency or intersection, which is the circumcenter in other words, the circumcenter is the point where the three perpendicular bisectors of each side intersect. It is very important that the distance from the circumcenter and the vertices are all equidistant for each segment (the line where it connects the circumcenter and the each vertex)</p>
